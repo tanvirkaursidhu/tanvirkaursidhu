@@ -46,6 +46,7 @@
 <p align="center">
 <a href="https://www.tanvirksidhu.weebly.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.tanvirksidhu.weebly.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tanvir-kaur-21b879189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanvir Kaur-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.hackerrank.com/tanvirksidhu"></a>
 <a href="https://www.instagram.com/iamtanusidhu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamtanusidhu_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tanvir0887.cse19@chitkara.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-tanvir0887.cse19@chitkara.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
