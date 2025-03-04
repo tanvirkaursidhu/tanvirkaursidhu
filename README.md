@@ -5,13 +5,14 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Working as a Golang Developer.
-- 🌱 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering at Chitkara University.
+- 🌱 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=007396)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
@@ -47,7 +48,7 @@
 <a href="https://www.tanvirksidhu.weebly.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.tanvirksidhu.weebly.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tanvir-kaur-21b879189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanvir Kaur-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.hackerrank.com/tanvirksidhu"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Tanvir Kaur-blue?style=flat-square&logo=hackerrank"></a>
-<a href="mailto:tanvirksidhu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tanvir0887.cse19@chitkara.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:tanvirksidhu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tanvirksidhu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [tanvirkaursidhu](https://github.com/tanvirkaursidhu)
