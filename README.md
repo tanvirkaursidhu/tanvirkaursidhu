@@ -12,26 +12,35 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=007396)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node Js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
-  ![React Js](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+- 🔧 &nbsp;  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 - 🖥 &nbsp;
+  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+  ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)
+  ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
+  ![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)
 
 <br/>
 
