@@ -36,9 +36,9 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
-- 📄 &nbsp;  
+- 📄 &nbsp;
+  ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)  
   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
-  ![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)
 - 🖼️ &nbsp;
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)
